@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or support, please contact [kashish ](mailto:kashishhsinghhh@gmail.com).
+For any inquiries or support, please contact [Mourya S Gowda](mailto:mouryas@outlook.in).
 
 
 
